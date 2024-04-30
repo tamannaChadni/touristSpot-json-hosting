@@ -1,0 +1,410 @@
+ [
+    {
+      "image": "https://i.ibb.co/FWK77kY/sa1.jpg",
+      "tourist_spot_name": "Kruger National Park",
+      "country_name": "South Africa",
+      "location": "Mpumalanga and Limpopo provinces",
+      "short_description": "One of Africa's largest game reserves, renowned for its incredible diversity of wildlife including the Big Five (lion, leopard, rhinoceros, elephant, and Cape buffalo).",
+      "average_cost": "$$$",
+      "seasonality": "Year-round, but best during the dry winter months (May to September)",
+      "travel_time": "5-7 days",
+      "total_visitors_per_year": 1000000
+    },
+    {
+      "image": "https://i.ibb.co/KhQFL5s/sa2.jpg",
+      "tourist_spot_name": "Cape Town",
+      "country_name": "South Africa",
+      "location": "Western Cape province",
+      "short_description": "A vibrant city nestled between the sea and the mountains, known for its stunning landscapes, diverse culture, and iconic landmarks such as Table Mountain and Cape Point.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, with peak season during summer (December to February)",
+      "travel_time": "3-5 days",
+      "total_visitors_per_year": 2000000
+    },
+    {
+      "image": "https://i.ibb.co/1LST3Mh/sa3.jpg",
+      "tourist_spot_name": "Bloukrans Bridge",
+      "country_name": "South Africa",
+      "location": "Eastern Cape province",
+      "short_description": "Famous for being the highest commercial bridge bungee jump in the world, offering adrenaline-seekers an unforgettable experience amidst breathtaking scenery.",
+      "average_cost": "$$$",
+      "seasonality": "Year-round, but best during the warmer months (October to April)",
+      "travel_time": "1-2 days",
+      "total_visitors_per_year": 50000
+    },
+    {
+      "image": "https://i.ibb.co/F3Tz6sh/sa4.jpg",
+      "tourist_spot_name": "Transkei",
+      "country_name": "South Africa",
+      "location": "Eastern Cape province",
+      "short_description": "A region renowned for its pristine beaches, rural landscapes, and traditional Xhosa culture, offering visitors a chance to experience authentic South African life.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, with peak season during summer (December to February)",
+      "travel_time": "3-5 days",
+      "total_visitors_per_year": 100000
+    },
+    {
+      "image": "https://i.ibb.co/gd6Vq0k/sa5.jpg",
+      "tourist_spot_name": "Drakensberg",
+      "country_name": "South Africa",
+      "location": "KwaZulu-Natal province",
+      "short_description": "A UNESCO World Heritage Site, characterized by its dramatic mountain landscapes, lush valleys, and rich biodiversity, offering hiking, climbing, and cultural experiences.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, but best during the dry winter months (May to September)",
+      "travel_time": "3-5 days",
+      "total_visitors_per_year": 300000
+    },
+    {
+      "image": "https://i.ibb.co/zxkdn4P/sa6.jpg",
+      "tourist_spot_name": "Johannesburg",
+      "country_name": "South Africa",
+      "location": "Gauteng province",
+      "short_description": "The economic hub of South Africa, known for its rich history, cultural diversity, and vibrant urban atmosphere, offering museums, galleries, and bustling markets.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, with peak season during summer (December to February)",
+      "travel_time": "2-4 days",
+      "total_visitors_per_year": 1500000
+    },
+
+
+
+    {
+      "image": "https://i.ibb.co/3rJV71j/ea1.jpg",
+      "tourist_spot_name": "Giza Pyramids",
+      "country_name": "Egypt",
+      "location": "Giza Governorate",
+      "short_description": "Iconic ancient monuments comprising the Great Pyramid of Giza, the Sphinx, and other pyramids and tombs, showcasing the grandeur of ancient Egyptian civilization.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, but best during the cooler months (October to April)",
+      "travel_time": "3-5 days",
+      "total_visitors_per_year": 2000000
+    },
+    {
+      "image": "https://i.ibb.co/1z4rqp7/ea2.jpg",
+      "tourist_spot_name": "Abu Simbel",
+      "country_name": "Egypt",
+      "location": "Aswan Governorate",
+      "short_description": "A UNESCO World Heritage Site housing two massive rock temples built by Ramses II, known for their impressive statues and intricate carvings, relocated to higher ground to avoid flooding.",
+      "average_cost": "$$$",
+      "seasonality": "Year-round, but best during the cooler months (October to April)",
+      "travel_time": "3-4 days",
+      "total_visitors_per_year": 500000
+    },
+    {
+      "image": "https://i.ibb.co/MSyx218/ea3.jpg",
+      "tourist_spot_name": "Luxor Temple",
+      "country_name": "Egypt",
+      "location": "Luxor Governorate",
+      "short_description": "A majestic temple complex dedicated to the god Amun-Ra, featuring impressive columns, statues, and hieroglyphs, offering a glimpse into ancient Egyptian religious practices.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, but best during the cooler months (October to April)",
+      "travel_time": "2-3 days",
+      "total_visitors_per_year": 1000000
+    },
+    {
+      "image": "https://i.ibb.co/Z1rCbP6/ea4.jpg",
+      "tourist_spot_name": "Karnak",
+      "country_name": "Egypt",
+      "location": "Luxor Governorate",
+      "short_description": "One of the largest temple complexes in the world, dedicated to the god Amun, featuring massive columns, obelisks, and statues, and offering sound and light shows.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, but best during the cooler months (October to April)",
+      "travel_time": "2-3 days",
+      "total_visitors_per_year": 1500000
+    },
+    {
+      "image": "https://i.ibb.co/cDxdzyD/ea5.jpg",
+      "tourist_spot_name": "Temple of Philae",
+      "country_name": "Egypt",
+      "location": "Aswan Governorate",
+      "short_description": "An ancient temple complex dedicated to the goddess Isis, rescued from the rising waters of Lake Nasser and relocated to the nearby island of Agilkia.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, but best during the cooler months (October to April)",
+      "travel_time": "2-3 days",
+      "total_visitors_per_year": 500000
+    },
+    {
+      "image": "https://i.ibb.co/8KWF3FT/ea6.jpg",
+      "tourist_spot_name": "Valley of the Kings",
+      "country_name": "Egypt",
+      "location": "Luxor Governorate",
+      "short_description": "A royal burial ground for pharaohs of the New Kingdom, featuring elaborately decorated tombs carved into the rock, including the famous tomb of Tutankhamun.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, but best during the cooler months (October to April)",
+      "travel_time": "2-3 days",
+      "total_visitors_per_year": 1000000
+    },
+
+    {
+      "image": "https://i.ibb.co/K5YW7Ch/ka1.jpg",
+      "tourist_spot_name": "Tsavo East National Park",
+      "country_name": "Kenya",
+      "location": "Coast Province",
+      "short_description": "One of Kenya's oldest and largest national parks, known for its vast savannahs, red elephants, and iconic landmarks such as the Galana River and Yatta Plateau.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, with peak season during the dry season (June to October)",
+      "travel_time": "4-7 days",
+      "total_visitors_per_year": 200000
+    },
+    {
+      "image": "https://i.ibb.co/bB4j39Y/ka2.jpg",
+      "tourist_spot_name": "Maasai Mara",
+      "country_name": "Kenya",
+      "location": "Rift Valley Province",
+      "short_description": "Renowned for the annual Great Migration of wildebeest and zebra, offering incredible wildlife viewing opportunities, traditional Maasai culture, and hot air balloon safaris.",
+      "average_cost": "$$$",
+      "seasonality": "Year-round, but best during the dry season (July to October)",
+      "travel_time": "5-7 days",
+      "total_visitors_per_year": 500000
+    },
+    {
+      "image": "https://i.ibb.co/V2LJLqc/ka3.jpg",
+      "tourist_spot_name": "Amboseli National Park",
+      "country_name": "Kenya",
+      "location": "Rift Valley Province",
+      "short_description": "Famous for its stunning views of Mount Kilimanjaro, vast elephant herds, and diverse wildlife including lions, cheetahs, and giraffes, set against the backdrop of open plains.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, but best during the dry season (June to October)",
+      "travel_time": "3-5 days",
+      "total_visitors_per_year": 150000
+    },
+    {
+      "image": "https://i.ibb.co/FmMcTR9/ka4.jpg",
+      "tourist_spot_name": "Lake Nakuru",
+      "country_name": "Kenya",
+      "location": "Rift Valley Province",
+      "short_description": "A soda lake renowned for its flamingos and diverse birdlife, as well as its rhino sanctuary, offering scenic beauty and wildlife encounters.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, but best during the dry season (June to October)",
+      "travel_time": "2-3 days",
+      "total_visitors_per_year": 100000
+    },
+    {
+      "image": "https://i.ibb.co/kxhtfKW/ka5.jpg",
+      "tourist_spot_name": "Giraffe Centre",
+      "country_name": "Kenya",
+      "location": "Nairobi",
+      "short_description": "A conservation center dedicated to the endangered Rothschild's giraffe, offering visitors the opportunity to feed and interact with these majestic creatures.",
+      "average_cost": "$",
+      "seasonality": "Year-round",
+      "travel_time": "1 day",
+      "total_visitors_per_year": 50000
+    },
+    {
+      "image": "https://i.ibb.co/gTFxFcR/ka6.jpg",
+      "tourist_spot_name": "Nairobi",
+      "country_name": "Kenya",
+      "location": "Nairobi Province",
+      "short_description": "The bustling capital city of Kenya, known for its vibrant culture, bustling markets, and attractions such as Nairobi National Park, Karen Blixen Museum, and more.",
+      "average_cost": "$$",
+      "seasonality": "Year-round",
+      "travel_time": "2-3 days",
+      "total_visitors_per_year": 1000000
+    },
+  
+
+    {
+      "image": "https://i.ibb.co/BZs2rZ3/ma1.jpg",
+      "tourist_spot_name": "Chefchaouen",
+      "country_name": "Morocco",
+      "location": "Rif Mountains",
+      "short_description": "A picturesque blue city nestled in the Rif Mountains, famous for its vibrant blue-washed buildings, narrow streets, and relaxed atmosphere.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, but best during the spring and autumn months",
+      "travel_time": "3-5 days",
+      "total_visitors_per_year": 500000
+    },
+    {
+      "image": "https://i.ibb.co/SrVbdPz/ma2.jpg",
+      "tourist_spot_name": "Marrakech",
+      "country_name": "Morocco",
+      "location": "Marrakech-Safi region",
+      "short_description": "A vibrant city known for its bustling medina, lively souks, historic landmarks such as Jemaa el-Fnaa square and Bahia Palace, and beautiful gardens.",
+      "average_cost": "$$$",
+      "seasonality": "Year-round, but best during the spring and autumn months",
+      "travel_time": "3-5 days",
+      "total_visitors_per_year": 1000000
+    },
+    {
+      "image": "https://i.ibb.co/f0QXvFp/ma3.jpg",
+      "tourist_spot_name": "Essaouira",
+      "country_name": "Morocco",
+      "location": "Marrakech-Safi region",
+      "short_description": "A charming coastal town known for its blue-and-white medina, historic ramparts, bustling port, and vibrant arts scene, popular for windsurfing and kiteboarding.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, but best during the spring and autumn months",
+      "travel_time": "2-4 days",
+      "total_visitors_per_year": 300000
+    },
+    {
+      "image": "https://i.ibb.co/qBd613J/ma4.jpg",
+      "tourist_spot_name": "Bahia Palace",
+      "country_name": "Morocco",
+      "location": "Marrakech",
+      "short_description": "A stunning palace featuring intricate Moorish architecture, lush gardens, and ornate interiors, offering a glimpse into Morocco's rich history and culture.",
+      "average_cost": "$",
+      "seasonality": "Year-round",
+      "travel_time": "1 day",
+      "total_visitors_per_year": 200000
+    },
+    {
+      "image": "https://i.ibb.co/72RYNpN/ma5.jpg",
+      "tourist_spot_name": "Ouzoud Falls",
+      "country_name": "Morocco",
+      "location": "Atlas Mountains",
+      "short_description": "The highest waterfall in Morocco, cascading over 100 meters into a lush valley surrounded by olive groves, offering hiking trails, boat rides, and opportunities to swim.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, but best during the spring months",
+      "travel_time": "2-3 days",
+      "total_visitors_per_year": 150000
+    },
+    {
+      "image": "https://i.ibb.co/6bb1nj3/ma6.jpg",
+      "tourist_spot_name": "Tangier",
+      "country_name": "Morocco",
+      "location": "Tangier-Tetouan-Al Hoceima region",
+      "short_description": "A historic port city known for its strategic location at the entrance to the Strait of Gibraltar, offering a blend of Moroccan, Spanish, and French influences.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, but best during the spring and autumn months",
+      "travel_time": "2-3 days",
+      "total_visitors_per_year": 250000
+    },
+  
+    {
+      "image": "https://i.ibb.co/m4WvV7S/na1.jpg",
+      "tourist_spot_name": "Sossusvlei",
+      "country_name": "Namibia",
+      "location": "Hardap Region",
+      "short_description": "A surreal landscape of towering red sand dunes and salt pans, offering breathtaking sunrise and sunset views, and opportunities for photography, hiking, and desert exploration.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, but best during the cooler months (April to October)",
+      "travel_time": "3-5 days",
+      "total_visitors_per_year": 200000
+    },
+    {
+      "image": "https://i.ibb.co/k543RXW/na2.jpg",
+      "tourist_spot_name": "Fish River Canyon",
+      "country_name": "Namibia",
+      "location": "ǁKaras Region",
+      "short_description": "The largest canyon in Africa, offering stunning vistas, hiking trails, and geological wonders, including the winding Fish River below.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, but best during the cooler months (April to October)",
+      "travel_time": "3-5 days",
+      "total_visitors_per_year": 100000
+    },
+    {
+      "image": "https://i.ibb.co/z7NX5P9/na3.jpg",
+      "tourist_spot_name": "Kolmanskop",
+      "country_name": "Namibia",
+      "location": "ǁKaras Region",
+      "short_description": "A ghost town engulfed by the desert sands, once a thriving diamond mining settlement, now a photographer's paradise with its abandoned buildings and eerie atmosphere.",
+      "average_cost": "$",
+      "seasonality": "Year-round",
+      "travel_time": "1-2 days",
+      "total_visitors_per_year": 50000
+    },
+    {
+      "image": "https://i.ibb.co/mht7d4z/na4.jpg",
+      "tourist_spot_name": "Swakopmund",
+      "country_name": "Namibia",
+      "location": "Erongo Region",
+      "short_description": "A charming coastal town known for its German colonial architecture, adventure activities such as sandboarding and quad biking, and proximity to the Namib Desert.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, but best during the cooler months (April to October)",
+      "travel_time": "2-3 days",
+      "total_visitors_per_year": 200000
+    },
+    {
+      "image": "https://i.ibb.co/hVpZmw3/na5.jpg",
+      "tourist_spot_name": "Skeleton Coast",
+      "country_name": "Namibia",
+      "location": "Skeleton Coast Park",
+      "short_description": "A remote and desolate coastline littered with shipwrecks, whale bones, and eerie landscapes, offering unique opportunities for wildlife viewing and exploration.",
+      "average_cost": "$$$",
+      "seasonality": "Year-round, but best during the cooler months (April to October)",
+      "travel_time": "3-5 days",
+      "total_visitors_per_year": 50000
+    },
+    {
+      "image": "https://i.ibb.co/h1CtcYx/na6.jpg",
+      "tourist_spot_name": "Etosha National Park",
+      "country_name": "Namibia",
+      "location": "Oshikoto Region",
+      "short_description": "One of Africa's premier wildlife reserves, known for its vast salt pan and abundant wildlife including elephants, lions, and rhinos, offering unforgettable safari experiences.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, but best during the dry season (May to October)",
+      "travel_time": "5-7 days",
+      "total_visitors_per_year": 300000
+    },
+  
+
+    {
+      "image": "https://i.ibb.co/6nsjXtv/ta1.jpg",
+      "tourist_spot_name": "Mount Kilimanjaro",
+      "country_name": "Tanzania",
+      "location": "Kilimanjaro Region",
+      "short_description": "Africa's highest peak and the world's tallest free-standing mountain, offering adventurous treks through diverse ecosystems, from lush rainforests to alpine deserts.",
+      "average_cost": "$$$",
+      "seasonality": "Year-round, but best during the dry season (January to March and June to October)",
+      "travel_time": "7-10 days",
+      "total_visitors_per_year": 25000
+    },
+    {
+      "image": "https://i.ibb.co/crtwmvS/ta2.jpg",
+      "tourist_spot_name": "Serengeti National Park",
+      "country_name": "Tanzania",
+      "location": "Serengeti Region",
+      "short_description": "One of Africa's most iconic wildlife destinations, famous for the annual Great Migration of wildebeest and zebra, offering unparalleled safari experiences.",
+      "average_cost": "$$$",
+      "seasonality": "Year-round, but best during the dry season (June to October)",
+      "travel_time": "5-7 days",
+      "total_visitors_per_year": 100000
+    },
+    {
+      "image": "https://i.ibb.co/PFqvFMJ/ta3.jpg",
+      "tourist_spot_name": "Zanzibar Beaches",
+      "country_name": "Tanzania",
+      "location": "Zanzibar Archipelago",
+      "short_description": "Idyllic tropical beaches with crystal-clear waters and pristine coral reefs, offering relaxation, water sports, and cultural experiences in historic Stone Town.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, with peak season during the dry season (June to October)",
+      "travel_time": "4-7 days",
+      "total_visitors_per_year": 500000
+    },
+    {
+      "image": "https://i.ibb.co/FV5xSYY/ta4.jpg",
+      "tourist_spot_name": "Ngorongoro Conservation Area",
+      "country_name": "Tanzania",
+      "location": "Arusha Region",
+      "short_description": "A UNESCO World Heritage Site and one of Africa's most spectacular wildlife areas, known for its breathtaking crater, diverse ecosystems, and abundant wildlife.",
+      "average_cost": "$$$",
+      "seasonality": "Year-round, with peak season during the dry season (June to October)",
+      "travel_time": "3-5 days",
+      "total_visitors_per_year": 150000
+    },
+    {
+      "image": "https://i.ibb.co/3r0Wcrd/ta5.jpg",
+      "tourist_spot_name": "Lake Manyara National Park",
+      "country_name": "Tanzania",
+      "location": "Arusha Region",
+      "short_description": "A scenic park famous for its tree-climbing lions, diverse birdlife, and stunning landscapes ranging from dense forests to open savannah and alkaline lakes.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, with peak season during the dry season (June to October)",
+      "travel_time": "2-3 days",
+      "total_visitors_per_year": 75000
+    },
+    {
+      "image": "https://i.ibb.co/hZS062P/ta6.jpg",
+      "tourist_spot_name": "Mafia Island",
+      "country_name": "Tanzania",
+      "location": "Mafia Island District",
+      "short_description": "A hidden gem in the Indian Ocean, known for its unspoiled beaches, vibrant coral reefs, and excellent diving and snorkeling opportunities.",
+      "average_cost": "$$",
+      "seasonality": "Year-round, with peak season during the dry season (June to October)",
+      "travel_time": "3-5 days",
+      "total_visitors_per_year": 50000
+    }
+  
+
+  ]
+
